@@ -2,12 +2,22 @@
 
 Examples of these APIs, some with visualization.
 
-[comment]: # If notebooks aren't showing on github, use jupyter nbviewer like so:
+Uses cryptocurrency as a topic.
 
-[comment]: #    [http://nbviewer.jupyter.org/github/<gitUserName>/<project>/blob/master/<notebook.ipynb>]
+<!---
+If notebooks aren't showing on github, use jupyter nbviewer like so:
 
-[using pytrends, a python library for interacting with google trends API](http://nbviewer.jupyter.org/github/charlieccarey/mining/blob/master/using_pytrends.ipynb)
+    [http://nbviewer.jupyter.org/github/<gitUserName>/<project>/blob/master/<notebook.ipynb>]
+--->
 
-[gdax api intro](http://nbviewer.jupyter.org/github/charlieccarey/mining/blob/master/gdax_price_example.ipynb)
+[pytrend](http://nbviewer.jupyter.org/github/charlieccarey/mining/blob/master/using_pytrends.ipynb)
 
-[using quandl to get and view data](http://nbviewer.jupyter.org/github/charlieccarey/mining/blob/master/quandl_example_gdax_btc.ipynb)
+- An introduction to this python library for interacting with google trends API.
+
+[quandl](http://nbviewer.jupyter.org/github/charlieccarey/mining/blob/master/quandl_example_gdax_btc.ipynb)
+
+- An introduction to quandl, a python library to fetch and work with quantitative data from quandl. Quandl is an especially rich source of both curated and uncurated financial data.
+
+[gdax](http://nbviewer.jupyter.org/github/charlieccarey/mining/blob/master/gdax_price_example.ipynb)
+
+- An introduction to this python library for interacting with GDAX exchange to get pricing info on cryptocurrencies.
