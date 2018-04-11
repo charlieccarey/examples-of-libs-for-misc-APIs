@@ -1,8 +1,10 @@
-# quandl, pytrends and gdax APIs
+# pytrends, quandl and gdax
 
-Examples of these APIs, some with visualization.
+Examples of python libraries to interact with these APIs.
 
 Uses cryptocurrency as a topic.
+
+And doing a bit of simple visualization.
 
 <!---
 If notebooks aren't showing on github, use jupyter nbviewer like so:
@@ -10,9 +12,9 @@ If notebooks aren't showing on github, use jupyter nbviewer like so:
     [http://nbviewer.jupyter.org/github/<gitUserName>/<project>/blob/master/<notebook.ipynb>]
 --->
 
-[pytrend](http://nbviewer.jupyter.org/github/charlieccarey/mining/blob/master/using_pytrends.ipynb)
+[pytrends](http://nbviewer.jupyter.org/github/charlieccarey/mining/blob/master/using_pytrends.ipynb)
 
-- An introduction to this python library for interacting with google trends API.
+- An introduction to this python library for fetching google trends data.
 
 [quandl](http://nbviewer.jupyter.org/github/charlieccarey/mining/blob/master/quandl_example_gdax_btc.ipynb)
 
