@@ -1,11 +1,13 @@
-#mining
+# quandl, pytrends and gdax APIs
 
-Examples for harvesting and analyzing data.
+Examples of these APIs, some with visualization.
 
-If notebooks aren't showing on github, use jupyter nbviewer like so:
+[comment]: # If notebooks aren't showing on github, use jupyter nbviewer like so:
 
-    [http://nbviewer.jupyter.org/github/<gitUserName>/<project>/blob/master/<notebook.ipynb>]
+[comment]: #    [http://nbviewer.jupyter.org/github/<gitUserName>/<project>/blob/master/<notebook.ipynb>]
 
-[http://nbviewer.jupyter.org/github/charlieccarey/mining/blob/master/using_pytrends.ipynb]
-[http://nbviewer.jupyter.org/github/charlieccarey/mining/blob/master/gdax_price_example.ipynb]
-[http://nbviewer.jupyter.org/github/charlieccarey/mining/blob/master/quandl_example_gdax_btc.ipynb]
+[using pytrends, a python library for interacting with google trends API](http://nbviewer.jupyter.org/github/charlieccarey/mining/blob/master/using_pytrends.ipynb)
+
+[gdax api intro](http://nbviewer.jupyter.org/github/charlieccarey/mining/blob/master/gdax_price_example.ipynb)
+
+[using quandl to get and view data](http://nbviewer.jupyter.org/github/charlieccarey/mining/blob/master/quandl_example_gdax_btc.ipynb)
